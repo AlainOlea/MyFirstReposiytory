@@ -1,0 +1,15 @@
+D:\Coder House\DesafioAlainContreras\obj\Debug\net6.0\DesafioAlainContreras.csproj.AssemblyReference.cache
+D:\Coder House\DesafioAlainContreras\obj\Debug\net6.0\DesafioAlainContreras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder House\DesafioAlainContreras\obj\Debug\net6.0\DesafioAlainContreras.AssemblyInfoInputs.cache
+D:\Coder House\DesafioAlainContreras\obj\Debug\net6.0\DesafioAlainContreras.AssemblyInfo.cs
+D:\Coder House\DesafioAlainContreras\obj\Debug\net6.0\DesafioAlainContreras.csproj.CoreCompileInputs.cache
+D:\Coder House\DesafioAlainContreras\bin\Debug\net6.0\DesafioAlainContreras.exe
+D:\Coder House\DesafioAlainContreras\bin\Debug\net6.0\DesafioAlainContreras.deps.json
+D:\Coder House\DesafioAlainContreras\bin\Debug\net6.0\DesafioAlainContreras.runtimeconfig.json
+D:\Coder House\DesafioAlainContreras\bin\Debug\net6.0\DesafioAlainContreras.dll
+D:\Coder House\DesafioAlainContreras\bin\Debug\net6.0\DesafioAlainContreras.pdb
+D:\Coder House\DesafioAlainContreras\obj\Debug\net6.0\DesafioAlainContreras.dll
+D:\Coder House\DesafioAlainContreras\obj\Debug\net6.0\refint\DesafioAlainContreras.dll
+D:\Coder House\DesafioAlainContreras\obj\Debug\net6.0\DesafioAlainContreras.pdb
+D:\Coder House\DesafioAlainContreras\obj\Debug\net6.0\DesafioAlainContreras.genruntimeconfig.cache
+D:\Coder House\DesafioAlainContreras\obj\Debug\net6.0\ref\DesafioAlainContreras.dll

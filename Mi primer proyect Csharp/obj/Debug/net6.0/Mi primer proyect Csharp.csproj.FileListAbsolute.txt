@@ -1,0 +1,15 @@
+D:\Coder House\Mi primer proyect Csharp\bin\Debug\net6.0\Mi primer proyect Csharp.exe
+D:\Coder House\Mi primer proyect Csharp\bin\Debug\net6.0\Mi primer proyect Csharp.deps.json
+D:\Coder House\Mi primer proyect Csharp\bin\Debug\net6.0\Mi primer proyect Csharp.runtimeconfig.json
+D:\Coder House\Mi primer proyect Csharp\bin\Debug\net6.0\Mi primer proyect Csharp.dll
+D:\Coder House\Mi primer proyect Csharp\bin\Debug\net6.0\Mi primer proyect Csharp.pdb
+D:\Coder House\Mi primer proyect Csharp\obj\Debug\net6.0\Mi primer proyect Csharp.csproj.AssemblyReference.cache
+D:\Coder House\Mi primer proyect Csharp\obj\Debug\net6.0\Mi primer proyect Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder House\Mi primer proyect Csharp\obj\Debug\net6.0\Mi primer proyect Csharp.AssemblyInfoInputs.cache
+D:\Coder House\Mi primer proyect Csharp\obj\Debug\net6.0\Mi primer proyect Csharp.AssemblyInfo.cs
+D:\Coder House\Mi primer proyect Csharp\obj\Debug\net6.0\Mi primer proyect Csharp.csproj.CoreCompileInputs.cache
+D:\Coder House\Mi primer proyect Csharp\obj\Debug\net6.0\Mi primer proyect Csharp.dll
+D:\Coder House\Mi primer proyect Csharp\obj\Debug\net6.0\refint\Mi primer proyect Csharp.dll
+D:\Coder House\Mi primer proyect Csharp\obj\Debug\net6.0\Mi primer proyect Csharp.pdb
+D:\Coder House\Mi primer proyect Csharp\obj\Debug\net6.0\Mi primer proyect Csharp.genruntimeconfig.cache
+D:\Coder House\Mi primer proyect Csharp\obj\Debug\net6.0\ref\Mi primer proyect Csharp.dll
